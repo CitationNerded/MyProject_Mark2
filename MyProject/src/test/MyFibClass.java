@@ -26,6 +26,7 @@ public class MyFibClass {
 			System.out.println(sumNumber);
 			//  System.out.println("Element "+n+" at index 0: " + fibonacciArray[n]);
 			//fibonacciArray.toArray(sumNumber);
+			// second
 		    }
 	}
 }
